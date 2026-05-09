@@ -27,6 +27,7 @@
 	"translations" : [
 		"config/vcmi-hungarian/game.json",
 		"config/vcmi-hungarian/maps.json",
+		"config/vcmi-hungarian/chronicles.json",
 		"config/vcmi-hungarian/campaigns.json"
 	]
 }
